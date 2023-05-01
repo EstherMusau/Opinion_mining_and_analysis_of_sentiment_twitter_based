@@ -1,5 +1,5 @@
 # Opinion Mining and Analysis of Sentiment on Twitter
-This repository contains code and resources for performing opinion mining and sentiment analysis on tweets using Python and Natural Language Processing (NLP) techniques.
+This repository contains code and resources for performing opinion mining and sentiment analysis on tweets using Python and Natural Language Processing (NLP) techniques and of course streamlit.
 
 ## Table of Contents
 - [Requirements](https://github.com/Briankim254/Opinion_mining_and_analysis_of_sentiment_twitter_based/new/master?readme=1#requirements)
@@ -11,7 +11,7 @@ This repository contains code and resources for performing opinion mining and se
 To run the code in this repository, you will need the following:
 
 1. Python 3.5 or higher
-2. Jupyter Notebook or any other Python environment
+2. Python environment
 3. Twitter Developer Account to get access to Twitter API credentials
 4. Tweepy (Python library for accessing the Twitter API)
 5. TextBlob (Python library for processing textual data)
